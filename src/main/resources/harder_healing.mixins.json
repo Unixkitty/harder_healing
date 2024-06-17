@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.unixkitty.harder_healing.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "harder_healing.refmap.json",
+  "mixins": [
+    "FoodDataMixin",
+    "LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
